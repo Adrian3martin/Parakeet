@@ -1,6 +1,6 @@
 {
   "name": "Parakeet",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A collaboration enablement toolkit to enhance your MACAW projects.",
   "main": "./lib/mporter.js",
   "scripts": {
