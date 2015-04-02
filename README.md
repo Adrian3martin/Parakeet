@@ -11,6 +11,7 @@ We're working to bring Parakeet to package manager. In the meantime, you'll need
 * Download all source files.
 * Paste these into your parakeet directory.
 * Manually into your node_modules directory.
+* Add parakeet as a dependency in your package.json.
 
 ## Requirements
 <br/>
